@@ -12,6 +12,9 @@
   </table>
   </br>
   
+ ## Мой стек технологий: 
+ 
+ ![Python](/icons/Python_logo_and_wordmark.png)![Pytest](/icons/Pytest_logo.png)![selene](/icons/selene.png)![Selenium](/icons/Selenium.png)![Selenoid](/icons/Selenoid.png)![requests](/icons/requests.png)![Docker](/icons/Docker.png)![Allure Report](/icons/Allure_Report.png)![Jenkins](/icons/Jenkins.png)![Allure](/icons/Allure_EE.png)![Appium](/icons/Appium.png)![Browserstack](/icons/Browserstack.png)![JIra](/icons/Jira.png)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DashaKudryavtseva)](https://github.com/anuraghazra/github-readme-stats)
 
