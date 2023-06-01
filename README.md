@@ -1,5 +1,6 @@
-### Hi there 👋
+### Привет, меня зовут Дарья!
 
+[![ASTU](https://github.com/DashaKudryavtseva/DashaKudryavtseva/blob/main/icons/astu_logo.png)]([https://nodesource.com/products/nsolid](https://astu.org/))
 <!--
 **DashaKudryavtseva/DashaKudryavtseva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
