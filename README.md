@@ -1,6 +1,9 @@
 ### Привет, меня зовут Дарья!
 
-[![ASTU](https://github.com/DashaKudryavtseva/DashaKudryavtseva/blob/main/icons/astu_logo.png)]([https://nodesource.com/products/nsolid](https://astu.org/))
+
+| [![ASTU](https://github.com/DashaKudryavtseva/DashaKudryavtseva/blob/main/icons/astu_logo.png)]([https://nodesource.com/products/nsolid](https://astu.org/)) | Окончила бакалавриат на кафедре "Автоматизированные системы обработки информации и управление" по направлению "Программная инженерия"  |
+
+
 <!--
 **DashaKudryavtseva/DashaKudryavtseva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
