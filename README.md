@@ -5,9 +5,10 @@
 <table width="100%" border='0'>
    <tr> 
     <td width="30%" valign="bottom"><img src="/icons/astu_logo.png"></td><td valign="middle">Астраханский государственный технический университет</br>Кафедра Автоматизированные системы обработки информации и управления</br>Программист</td></tr>
+    <tr> 
+    <td width="30%" valign="bottom"><img src="/icons/photo_2022-05-30_21-01-03.png"></td><td valign="middle">QA GURU</br>Курс инженеров по автоматизации тестирования на Python</br></td></tr>
   </table>
   </br>
-| [![ASTU](https://github.com/DashaKudryavtseva/DashaKudryavtseva/blob/main/icons/astu_logo.png)]([https://nodesource.com/products/nsolid](https://astu.org/)) | Окончила бакалавриат на кафедре "Автоматизированные системы обработки информации и управление" по направлению "Программная инженерия"  |
 
 
 <!--
