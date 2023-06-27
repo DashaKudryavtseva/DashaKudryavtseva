@@ -19,5 +19,5 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DashaKudryavtseva)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Дипломный проект
-[API и UI автотесты]([https://www.example.com](https://github.com/DashaKudryavtseva/demo_web_shop))
+[API и UI автотесты](https://github.com/DashaKudryavtseva/demo_web_shop)
 
