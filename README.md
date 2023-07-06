@@ -19,5 +19,5 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DashaKudryavtseva)](https://github.com/anuraghazra/github-readme-stats)
 
 # [Дипломный проект](https://github.com/DashaKudryavtseva/demo_web_shop)
-Дипломный проект был выполнен в рамках курса QA GURU. В нем реализованы API и UI тесты, а также проект подключен к Jenkins с возможностью получать уведосления в телеграм о результате прохождения тестов.
+Дипломный проект был выполнен в рамках курса QA GURU. В нем реализованы API и UI тесты, а также проект подключен к Jenkins с возможностью получать уведомления в телеграм о результате прохождения тестов.
 
